@@ -1,0 +1,18 @@
+# Virtual envs
+env/
+venv/
+*/env/
+*/venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Optional: if you keep big data elsewhere, ignore a data dir
+# data/
